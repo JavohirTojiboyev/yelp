@@ -1,0 +1,27 @@
+.signout {
+    background-color: #F39C12;
+    border: none;
+    color: white;
+    width: 160px;;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 15px;
+    margin-left: 50px;
+}
+.signout:hover{
+    background-color: #830083;
+    border: 3px solid blue;
+    border-radius: 20px;
+}
+.text{
+    color: #fff;
+    text-align: center;
+}
+.navbar{
+    background-image: linear-gradient(to right, #830083, #000);
+}
+.hr{
+    height: 50px;
+}
