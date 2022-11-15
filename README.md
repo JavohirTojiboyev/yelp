@@ -42,7 +42,7 @@ I learned more about ReactJs and AWS from this video
 Clone the project
 
 ```bash
-  git clone git remote add origin https://github.com/Soburjon19/myyelp.git
+  git clone git remote add origin https://github.com/JavohirTojiboyev/yelp.git
 ```
 
 Go to the project directory
